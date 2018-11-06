@@ -42,3 +42,6 @@ CACC: (1, 3)
 Major clause: a, when b = true  
 RACC: (1, 3)
 
+## Step 7: Find pc that determine p
+p = a && b  
+pa = p(a=true) XOR p(a=false) = (ture & b) XOR (false & b) = b XOR false = b  
