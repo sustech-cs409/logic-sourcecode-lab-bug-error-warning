@@ -28,6 +28,7 @@ a = false, b= false
 ## Step 4: Get Combinatorial Coverage
 
 | a | b | p |
+|:-:|:-:|:-:|
 | T | T | T |
 | T | F | F |
 | F | T | F |
