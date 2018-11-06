@@ -35,3 +35,6 @@ a = false, b= false
 | 4  | F | F | F |
 
 Step 5: Get Correlated Active Clause Coverage
+Major clause: a, when b = true, c = true  
+CACC: (1, 3), (1, 4)
+
