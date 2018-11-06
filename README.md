@@ -35,10 +35,10 @@ a = false, b= false
 | 4  | F | F | F |
 
 ## Step 5: Get Correlated Active Clause Coverage
-Major clause: a, when b = true
+Major clause: a, when b = true(id = 1 or 3)  
 CACC: (1, 3)
 
 ## Step 6: Get Restricted Active Clause Coverage
-Major clause: a, when b = true
+Major clause: a, when b = true  
 RACC: (1, 3)
 
