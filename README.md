@@ -27,10 +27,11 @@ a = false, b= false
 
 ## Step 4: Get Combinatorial Coverage
 
-| a | b | p |
-|:-:|:-:|:-:|
-| T | T | T |
-| T | F | F |
-| F | T | F |
-| F | F | F |
+| id | a | b | p |
+|:--:|:-:|:-:|:-:|
+| 1  | T | T | T |
+| 2  | T | F | F |
+| 3  | F | T | F |
+| 4  | F | F | F |
 
+Step 5: Get Correlated Active Clause Coverage
