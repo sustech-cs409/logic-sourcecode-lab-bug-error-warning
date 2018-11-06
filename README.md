@@ -1,6 +1,8 @@
 # logic-sourcecode-lab-bug-error-warning
-logic-sourcecode-lab-bug-error-warning created by GitHub Classroom
 ---------
+My student id is 11510785(潘超)
+
+
 ## Step I: Select method
 ```
 /**
