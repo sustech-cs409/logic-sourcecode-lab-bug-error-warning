@@ -25,3 +25,11 @@ p = a && b, Make each clause true & false
 a = true, b= true  
 a = false, b= false  
 
+## Step 4: Get Combinatorial Coverage
+
+| a | b | p |
+| T | T | T |
+| T | F | F |
+| F | T | F |
+| F | F | F |
+
