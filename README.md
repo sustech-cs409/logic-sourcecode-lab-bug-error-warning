@@ -16,6 +16,12 @@ private boolean isPDFAndNotDirectory(File file) {
 
 ## Step 2:
 1. Simplify: a && b  
-2. Get Predicate Coverage: p = a && b
+2. Get Predicate Coverage: p = a && b  
   Make p = true, a = true, b= true  
   Make p = false, a = false, b= false  
+
+## Step 3: Get Clause Coverage
+p = a && b, Make each clause true & false  
+a = true, b= true  
+a = false, b= false  
+
